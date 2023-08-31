@@ -1,8 +1,4 @@
-/* Name: Yana Kuzmina, NSHE: 5007104058, CS202 1005, AS3
- * Description: using classes to construct patient file
- * Input: doctor name, specialty, patient
- * Output: roomrent total charges
- */
+
 
 #include <string>
 #include <iostream>
