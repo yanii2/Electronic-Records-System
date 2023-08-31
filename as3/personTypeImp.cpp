@@ -1,8 +1,3 @@
-/* Name: Yana Kuzmina, NSHE: 5007104058, CS202 1005, AS3
- * Description: using classes to construct patient file
- * Input: doctor name, specialty, patient
- * Output: roomrent total charges
- */
 
 //two composition types
 //error check for month. must be between 1 and 12 months
